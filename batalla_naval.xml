@@ -1,0 +1,11 @@
+<batalla_naval>
+    <tablero>
+        <numeros>10</numeros>
+        <letras>j</letras>
+    </tablero>
+    <barcos>
+        <portaviones>
+            <coodenada1>c1</coodenada1>
+        </portaviones>
+    </barcos>
+</batalla_naval>
